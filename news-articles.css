@@ -1,0 +1,16 @@
+.news {
+    width: 300px;
+    height: auto;
+    border: 20px solid snow;
+    justify-self: unset;
+    text-align: right;
+    text-justify: distribute-all-lines;
+    animation-name: none;
+    align-self: center;
+}
+
+
+.footer{
+    margin: 100px;
+    
+}
